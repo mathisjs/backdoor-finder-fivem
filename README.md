@@ -1,4 +1,4 @@
-
+# ⛔️ Shit old code
 # Backdoor Finder FiveM
 
 So, you need to have NodeJS on your PC.
